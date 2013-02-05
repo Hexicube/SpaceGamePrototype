@@ -1,0 +1,8 @@
+test
+shield
+player1control
+player2control
+bullet
+bigbullet
+metabullet
+bigwall
